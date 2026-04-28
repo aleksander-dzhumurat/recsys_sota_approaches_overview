@@ -94,6 +94,16 @@ ipython_config.py
 #   install all needed dependencies.
 # Pipfile.lock
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and secrets
+.env
+*.session
+sessions/
+
 # UV
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
@@ -216,3 +226,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.research_results
+.claude
