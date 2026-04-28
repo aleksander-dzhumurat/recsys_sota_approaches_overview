@@ -69,7 +69,7 @@
 |---|---|---|
 | Correcting the LogQ Correction: Revisiting Sampled Softmax for Large-Scale Retrieval | Khrylchenko et al. (Yandex) | 🟢 [arxiv.org/pdf/2507.09331](https://arxiv.org/pdf/2507.09331) · 🔵 [ACM](https://dl.acm.org/doi/pdf/10.1145/3705328.3748033) |
 | Counterfactual Inference under Thompson Sampling | Jeunen (Aampe) | 🟢 [arxiv.org/pdf/2504.08773](https://arxiv.org/pdf/2504.08773) · 🔵 [ACM](https://dl.acm.org/doi/pdf/10.1145/3705328.3748011) |
-| Other short papers | Various | 🔵 [ACM RecSys 2025 proceedings](https://dl.acm.org/doi/proceedings/10.1145/3705328) |
+
 
 ---
 
@@ -81,7 +81,7 @@
 | Revisiting the Performance of Graph Neural Networks for Session-based Recommendation | Shehzad, Jannach (Univ. Klagenfurt) | 🟢 [arxiv.org/pdf/2312.16695](https://arxiv.org/pdf/2312.16695) · 🔵 [ACM](https://dl.acm.org/doi/pdf/10.1145/3705328.3748156) |
 | Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders | Gusak et al. (AIRI) | 🟢 [arxiv.org/pdf/2507.16289](https://arxiv.org/pdf/2507.16289) · 🔵 [ACM](https://dl.acm.org/doi/pdf/10.1145/3705328.3748164) |
 | Yambda-5B — A Large-Scale Multi-Modal Dataset for Ranking and Retrieval | Ploshkin et al. (Yandex) | 🟢 [arxiv.org/pdf/2505.22238](https://arxiv.org/pdf/2505.22238) · 🔵 [ACM](https://dl.acm.org/doi/pdf/10.1145/3705328.3748163) |
-| Other reproducibility papers | Various | 🔵 [ACM RecSys 2025 proceedings](https://dl.acm.org/doi/proceedings/10.1145/3705328) |
+
 
 ---
 
